@@ -1,0 +1,8 @@
+{
+  "owner": 7,
+  "group": 5,
+  "other": 0,
+  "world_writable": false,
+  "setuid": false,
+  "sticky": false
+}
